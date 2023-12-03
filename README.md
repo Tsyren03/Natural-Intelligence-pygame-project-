@@ -1,2 +1,1 @@
-# In progresss
-Adventure text quest 
+#Natural Intelligence (text game)
