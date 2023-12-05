@@ -12,8 +12,9 @@ This game simply consists of dialogue with computer and your responce depends on
 ### If I have caught your interest, you can easily download a folder with a game .exe file and start to play. The game is short :D. Any suggestions about the plot or gameplay are welcome!
 ## Spoilers
 <details>
-  <summary>## Click to reveal spoiler</summary>
-  
-  Spoiler text goes here. This is the content that will be hidden until the user clicks on the summary.
-  
+  <summary>Click to reveal spoiler</summary>
+  Spoiler text goes here. This is the content that will be hidden until the user clicks on the summary. 
 </details>
+## Thanks to:
+Help with code ChatGPT.<br>
+Music by Aleksey Chistilin from Pixabay.
