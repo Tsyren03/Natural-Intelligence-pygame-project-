@@ -10,11 +10,11 @@ In unknown year, but in future you wake up in a white empty room, but it has a c
 This game simply consists of dialogue with computer and your responce depends on which ending will you get. Game has 3 endings, two of them will end the plot and one ending will be continued in next games.
 ![](https://imgpanda.com/upload/ib/9LNiim9QiO.png)
 ### If I have caught your interest, you can easily download a folder with a game .exe file and start to play. The game is short :D. Any suggestions about the plot or gameplay are welcome!
+## Thanks to:
+Help with code ChatGPT.<br>
+Music by Aleksey Chistilin from Pixabay (Cinematic Time Lapse).
 ## Spoilers
 <details>
   <summary>Click to reveal spoiler</summary>
   Spoiler text goes here. This is the content that will be hidden until the user clicks on the summary. 
 </details>
-## Thanks to:
-Help with code ChatGPT.<br>
-Music by Aleksey Chistilin from Pixabay.
