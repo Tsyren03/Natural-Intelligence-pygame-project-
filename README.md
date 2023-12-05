@@ -16,5 +16,5 @@ Music by Aleksey Chistilin from Pixabay (Cinematic Time Lapse).
 ## Spoilers
 <details>
   <summary>Click to reveal spoiler</summary>
-  Spoiler text goes here. This is the content that will be hidden until the user clicks on the summary. 
+  In this game, I attempted to explore the theme of Artificial Intelligence, suggesting that in the future, people will create an AI capable of perceiving itself as human without ever realizing it is a replicant. The player wakes up in a final testing room designed to determine the effectiveness of the software in replicating the essence of a human 'soul.' The main plot twist of the game reveals that, initially, the player believes they are controlling a human character, but in truth, they have been playing as a replicant. My final goal was to make the player think about Artificial Intelligence in a different, more futuristic way. I hope you like'd my game, or at least understand my main idea :D
 </details>
